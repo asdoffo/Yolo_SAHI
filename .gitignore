@@ -1,0 +1,31 @@
+# Entorno virtual
+.venv/
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Datasets 
+datasets/original/images/
+datasets/tiled/images/
+*.jpg
+*.png
+*.mp4
+
+# Modelos entrenados 
+*.pt
+*.onnx
+*.engine
+models/
+
+# Logs y resultados temporales
+runs/
+wandb/
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+Thumbs.db

@@ -1,0 +1,17 @@
+path: D:\Proyectos\IA\AGD\PMD\Yolo_SAHI\datasets\tiled
+train: images/train
+test: images/test
+val: images/val
+nc: 11
+names:
+- Metal
+- Cascabullo
+- Cebollin
+- Hueso
+- Maiz
+- Palo
+- Piedras
+- Plastico
+- Soja
+- Vidrio
+- Cascote

@@ -1,0 +1,17 @@
+path: ../datasets/original/Images_ASD_2025_10_21
+train: images/train
+val: images/val
+test: images/test
+nc: 11
+names:
+- Metal
+- Cascabullo
+- Cebollin
+- Hueso
+- Maiz
+- Palo
+- Piedras
+- Plastico
+- Soja
+- Vidrio
+- Cascote
